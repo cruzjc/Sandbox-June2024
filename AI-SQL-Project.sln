@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI-SQL-Project", "AI-SQL-Project.csproj", "{A74503AF-52C5-45BB-975C-7904344781C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AILibraryTest", "..\AILibraryTest\AILibraryTest.csproj", "{20A79C5F-5892-4041-AD52-29200540ED57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A74503AF-52C5-45BB-975C-7904344781C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A74503AF-52C5-45BB-975C-7904344781C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A74503AF-52C5-45BB-975C-7904344781C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20A79C5F-5892-4041-AD52-29200540ED57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A79C5F-5892-4041-AD52-29200540ED57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A79C5F-5892-4041-AD52-29200540ED57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A79C5F-5892-4041-AD52-29200540ED57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09E97E92-9003-4342-A27F-F65D6914507D}
+	EndGlobalSection
+EndGlobal
